@@ -1,5 +1,3 @@
-
-
 #define REDPIN 5    
 #define GREENPIN 6  
 #define BLUEPIN 3   
